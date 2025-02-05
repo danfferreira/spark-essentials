@@ -10,6 +10,7 @@
   - [Driver? Worker? É de comer?](#driver-worker-é-de-comer)
   - [Transformações e Ações](#transformações-e-ações)
     - [O que significa "Lazy Evaluation"](#o-que-significa-lazy-evaluation)
+    - [Qual a diferença entre uma Transformação e uma Ação?"](#qual-a-diferença-entre-uma-transformação-e-uma-ação) 
     - [O que seriam Narrow e Wide](#o-que-seriam-narrow-e-wide)
 - [Subindo um cluster Spark](#subindo-um-cluster-spark)
   - [Instalando o Docker e Docker Compose](#instalando-o-docker-e-docker-compose)
