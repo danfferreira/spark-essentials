@@ -44,8 +44,11 @@
 
 ### 🔄 Transformações e Ações
 
-#### ⚡ O que significa "Lazy Evaluation"
-(Explicação sobre avaliação preguiçosa no Spark)
+#### 🥱 O que significa "Lazy Evaluation"
+(Explicação sobre lazy evoluation no Spark)
+
+#### 🧮 Qual a diferença entre uma Transformação e uma Ação?
+(Explicação sobre a diferença entre esses conceitos e por que é tão importante)
 
 #### 🛤️ O que seriam Narrow e Wide
 (Explicação sobre tipos de transformações e impacto na performance)
